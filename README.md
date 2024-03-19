@@ -1,7 +1,7 @@
 
 The Sortino Ratio is a statistical tool used to measure the performance of an investment relative to the downside risk it carries. Developed by Dr. Frank A. Sortino, it differs from the Sharpe Ratio by focusing solely on the negative deviation of returns, rather than the overall volatility. This makes the Sortino Ratio particularly useful for investors who are more concerned about potential losses than the overall variability of returns.
 
-Here’s how it breaks down:
+Key aspects:
 
 Purpose: The Sortino Ratio helps to identify investments that deliver high returns without taking on unnecessary risks, specifically focusing on the risk of negative returns.
 
